@@ -1,0 +1,22 @@
+{
+  "name": "demo-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo1.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dayjs": "^1.11.5",
+    "express": "^4.17.2",
+    "imageinfo": "^1.0.4",
+    "joi": "^17.4.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
